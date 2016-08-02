@@ -1,0 +1,19 @@
+{
+  "name": "sgrichards/docker-drupal-stack",
+  "type": "project",
+  "description": "A basic Drupal development stack using docker",
+  "keywords": ["docker", "drupal", "apache"],
+  "homepage": "https://github.com/sgrichards/docker-drupal-stack",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Steve Gush Richards",
+      "homepage": "http://8balldev.uk"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/sgrichards/docker-drupal-stack/issues",
+    "source": "https://github.com/sgrichards/docker-drupal-stack"
+  },
+  "require": {}
+}
