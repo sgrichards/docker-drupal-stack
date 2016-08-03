@@ -1,6 +1,6 @@
 {
   "name": "sgrichards/docker-drupal-stack",
-  "type": "project",
+  "type": "library",
   "description": "A basic Drupal development stack using docker",
   "keywords": ["docker", "drupal", "apache"],
   "homepage": "https://github.com/sgrichards/docker-drupal-stack",
